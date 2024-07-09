@@ -11,3 +11,4 @@ Step 6: After that Make the connection.
 Step 7: Go to the terminal and check It starts with Ubuntu@your-ip
 Step 8 : Create a Directory name Project by using command "mkdir project"
 Step 9 : Create a python file name main.py
+Step 10 : Create a text file name "credentials.txt" and copy your API key provided by openweathermap.
