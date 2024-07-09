@@ -1,0 +1,13 @@
+Step 1 : Create an EC2 instance with Linux-ubuntu as OS and download the key-pair file.
+Step 2 : Open the VS Code and install the Extension "Remote - SSH".
+Step 3 : Go to the view option and click the command palatte.
+Step 4 : Select the Configure SSH Host.
+Step 5 : The file name config will open and type,
+       HOST (Name of your EC2 Instance)
+       HostName (Public IPv4 Address)
+       User ubuntu
+       IdentityFile (Path to your key-pair file)
+Step 6: After that Make the connection.
+Step 7: Go to the terminal and check It starts with Ubuntu@your-ip
+Step 8 : Create a Directory name Project by using command "mkdir project"
+Step 9 : Create a python file name main.py
